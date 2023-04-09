@@ -9,9 +9,12 @@
 </head>
 <body>
 <h1>This will be my login page</h1>
+<<<<<<< HEAD
 <p>
     Hello! Mr.${name}
 </p>
+=======
+>>>>>>> origin/master
 
 </body>
 </html>
